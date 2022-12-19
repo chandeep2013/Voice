@@ -1,0 +1,23 @@
+git init 
+git config --global user.email "chandeep2013@gmail.com"
+git config --global user.name "chandeep2013"
+git remote set-url origin https://ChamdeepM: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@github.com/tr/tax-provision_otp-mvp_app1
+git remote add origin https://github.com/chandeep2013/swift_trv.git
+git add .
+git commit -m "Date format change for endusers"
+git push -f origin master
+
+git clone form version control(left hand side panel) and checkout to specific branch
+Import from Specific Branch: git clone --branch Production https://github.com/tr/tax-provision_otp-mvp_app1.git
+
+
+https://github.com/chandeep2013/RiskManagemet.git
+Token: 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
+
+git config --global user.email "chandeep2013@gmail.com"
+git config --global user.name "chandeep2013"
+git remote set-url origin https://Chandeep2013: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@https://github.com/chandeep2013/RiskManagemet
+
+git remote add origin https://github.com/chandeep2013/sapathon.git
+
+https://MHIRJ@dev.azure.com/MHIRJ/MHIRJ_S4HANA/_git/MHIRJ_DRS_CP
